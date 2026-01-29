@@ -4,13 +4,13 @@
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a07f9a250648397507f007bbaaa07f48dd/index.m3u8?token=4127f55ec27c9e497511658b53ca23f91b867987ccd7e6be3545e8676358f1808fb8abd2a98dda1bdf9a59b1ca7e060fab1af24ba1c3da518dba407952ace994449c6361b8a1-75ac119fe7c3d31d45873f7a5a8d389f
 
 #EXTINF:-1 tvg-id="ColorsTamil.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Tamil-HD.png" group-title="Tamil",Colors Tamil HD
-http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ad361115b65ac618a2c1f482c/index.m3u8?token=1e38e2571c7d283e000097e32c3c76e161e2dd9a994af941ef178ceb60e6c8c12f5db8674efd6f73312b98d614dbf216260ef6edffd2c282674e45fbe0e82edc9e736113852a-d9546e3e97b9e764d9a04f2263325179
+http://78.40.19326/86e4228d28529b58bdb5b93b2ad361115b65ac618a2c1f482c/index.m3u8?token=1e38e2571c7d283e000097e32c3c76e161e2dd9a994af941ef178ceb60e6c8c12f5db8674efd6f73312b98d614dbf216260ef6edffd2c282674e45fbe0e82edc9e736113852a-d9546e3e97b9e764d9a04f2263325179
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/D-Tamil.png" group-title="Tamil",Discovery World Tamil
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ad4670e5778a97b8c340d562f6614e00eb0bfac7b4d/index.m3u8?token=08c69c6d94cc855bfa8df15f5cc1d756e0091fabe49fff27600fba93254973be13a446bd94bfff7bee4867f214eeb4c211ea89d6f2fb0f887d08bd398207d2eb7ea3edba8f84-1b598cbf2b1ca2d97651b423a2dbd677
 
 #EXTINF:-1 tvg-id="EETTV.ca@SD" tvg-logo="https://i.imgur.com/rntSEDZ.png" group-title="Tamil",EET TV
-http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ad56b094b63a9618a2c1f482c/index.m3u8?token=06f5be8ef6ae009015d32246511ac704783acab9f07769a209874b40bd16d2d3bfeabe9981bca837260723c774e2e0c79df8d232a383e8575d480c7b8c3b3776961401cc3afb-44517aedc453b1c74bbca0fe0894ef6c
+http://78.40.1:9326/86e4228d28529b58bdb5b93b2ad56b094b63a9618a2c1f482c/index.m3u8?token=06f5be8ef6ae009015d32246511ac704783acab9f07769a209874b40bd16d2d3bfeabe9981bca837260723c774e2e0c79df8d232a383e8575d480c7b8c3b3776961401cc3afb-44517aedc453b1c74bbca0fe0894ef6c
 
 #EXTINF:-1 tvg-id="IBCTamil.uk@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/IBC-Tamil.png" group-title="Tamil",IBC Tamil
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac565025362a6618a0c3f680c6b07ed13a7a1b5536cf8c93462af/index.m3u8?token=d62a1bf18d006d0b4509c94420c1ff52fb65a41c0fc1164c180298f78584cda0d1c335a3e794ae91ce066d9f183c8e2f2fe1d50fdbf8135a2cf78406661b02166eca5ef449b1-9946e57b628cd8dbd521a00705c5d9fd
@@ -27,17 +27,17 @@ http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ada6f045568b27f863206402d7d14
 #EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Isaiaruvi.png" group-title="Tamil",Isai Aruvi
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a0778d2c1b5e21660df218bbaaa07f48dd/index.m3u8?token=eb69eca36b7df4cf3c9f4995d1772abee1d8d3a66639afa985d958bd079d02da3eb8caf795ea13d39c0a2bbe600d1084286ea0fe9754855dc2e1b455075b8e92812716cd32f4-d7d85e4ebd115c58d9043bbe8bdb8135
 
-#EXTINF:-1 tvg-id="KalaignarMurasu.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Murasu-TV.png" group-title="Tamil",Murasu TV
+#EXTINF:-1 tvg-id="Murasu.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Murasu-TV.png" group-title="Tamil",Murasu TV
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac565025362a6618a0c3f680c6b35d123858d946d55c7/index.m3u8?token=640884459eb3522c9a17da82cff05640a2b45c3052cc033f17bc9ea5c06cf4c2ab96b5ab3d69aef193628fc827bd578b00be5fe02ff8d9cd63e1ae5d00690b18f0a3201742a3-51ff394ae9eea79e2b3ca8ac572b97d2
 
 #EXTINF:-1 tvg-id="SirippoliTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sirippoli-1.png" group-title="Tamil",Sirippoli TV
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac3670f5d67af7192240d55366b0ce51cadb2/index.m3u8?token=758101e23690999fedc0e1af4d45807b68cb11ab76a222ef3d0622f89374b3358dab9bbc935aa35c06277175ac3bb1c7ca5af44e1d94894ebe8a39cdbcaaf0c4d88894529391-5c14d5450787ab465086d9d19f87ae76
 
 #EXTINF:-1 tvg-id="KalaignarTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kalaignar-TV-1.png" group-title="Tamil",Kalaignar
-http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2adb6f11557eb8709f3f0d55366b0ce51cadb2/index.m3u8?token=e0a3d6b2ca1dff7a096e984724c21abf9cb76c608bcd6df3b482acd633dcca81abe0ea7427e672c3842e453bd6108f7113f0bdf4ccceac3eacf32740e885bf5f595372ef849b-03fad5f6e94a84c0cfd717930ca179b3
+http://78.40.1404228d28529b58bdb5b93b2adb6f11557eb8709f3f0d55366b0ce51cadb2/index.m3u8?token=e0a3d6b2ca1dff7a096e984724c21abf9cb76c608bcd6df3b482acd633dcca81abe0ea7427e672c3842e453bd6108f7113f0bdf4ccceac3eacf32740e885bf5f595372ef849b-03fad5f6e94a84c0cfd717930ca179b3
 
 #EXTINF:-1 tvg-id="KTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/KTV-HD.png" group-title="Tamil",KTV HD
-http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2adb7a0b4b63be739721/index.m3u8?token=f49855b28e60400ae557fa3e0fc85c48f69d56a8aa2abe8951dd501d16938875afdd8c33a0f0922bfb06b32845ff8e12a8358ee6656c42de269ebc8c90dc8053bbab9a2a94ff-76fba077824bde1e2077a61142ff3f96
+http://78.40.140.206e4228d28529b58bdb5b93b2adb7a0b4b63be739721/index.m3u8?token=f49855b28e60400ae557fa3e0fc85c48f69d56a8aa2abe8951dd501d16938875afdd8c33a0f0922bfb06b32845ff8e12a8358ee6656c42de269ebc8c90dc8053bbab9a2a94ff-76fba077824bde1e2077a61142ff3f96
 
 #EXTINF:-1 tvg-id="MoonTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Moon.png" group-title="Tamil",Moon TV
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a07391221c5e3462/index.m3u8?token=fc972d330086d7b4abd38e12967884f713c5a42030c310637fd85c7bc8de0cc0f26b920964b4f9ba7d1a27c5761cea8568d441fdaf7bb0ffc2c69e3e1e53fefd012522e392e9-8c64a7b248cb34e16bb5651fffb62a6e
@@ -61,7 +61,7 @@ http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a06c9f270d4c356711
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac46f105d7ba06d91220048397516fb05b2/index.m3u8?token=ba5f1d2a3d6f133cdbfe5561d7d25ecf26a8ecb59e7cd33ffa96fc1095acfe6c50c9e50dc14d297e89a792961f33d9831a40d7e8522ecd7a8a219704fc9a51640572971801ba-c42ef9f3c9910d4450349928356b3590
 
 #EXTINF:-1 tvg-id="SunTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="Tamil",Sun TV HD
-http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac46f105d7ba06d8b230d55366b10e0/index.m3u8?token=cea095762c51d45cda3fa8f20ddf324e7de71214a59e590fa5b65665424bfb912fb4150ef563167b0c434e0e40578faf8c251f450564519a90be0b53314f95b1b9d7610d8d62-3ac452bea70dd281ba36392d53b2a864
+http://78.40.140.326/86e4228d28529b58bdb5b93b2ac46f105d7ba06d8b230d55366b10e0/index.m3u8?token=cea095762c51d45cda3fa8f20ddf324e7de71214a59e590fa5b65665424bfb912fb4150ef563167b0c434e0e40578faf8c251f450564519a90be0b53314f95b1b9d7610d8d62-3ac452bea70dd281ba36392d53b2a864
 
 #EXTINF:-1 tvg-id="SunMusic.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac37b134b7aaa6d972e0d543375/index.m3u8?token=435b7f06ff9f1b39b8d6cacd2d5026882cf8b982b4b44c9135e0dcba567e90fec3b2672951647b98f54f6a6e3afbb4123184a389a9949e16f99759e6434550473f355d751d40-10e92525523705729af01c3c126b94f9
@@ -93,7 +93,7 @@ http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a0689b231649216607
 http://hingl.packetcdn.me:9250/86e4228d28529b58bdb5b93b2ac46f105d7ba068972713583f670df414b6/index.m3u8?token=c560af743fdaa36bd435670a325dae4604e8a6d383b6e1bd6e2cd792a12072a5d3ecca8bdb53336fae8e2ab320ccb1e466e7fd356d0dbf318611565ba027aba9a64fc3476aca-e723644d534a77fe19bc30c007e14c04
 
 #EXTINF:-1 tvg-id="1043" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png" group-title="Tamil",Vijay Takkar
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc66717556ea06a9f26194032/index.m3u8?token=ec6ad053ff958dd7af23cb4301f97ceb353770a9d156e2391378f4874e8416d1fac7e5a54bb4e72f71e118c1cc5c7f263765c6e4821f8090b98674d6a956230da5edcf2a382c-4f7f377c42e3586b8d03e3e15459304b
+http://tm-tl-ml.:8372/8be1228d28529851b6b5b53c2bc66717556ea06a9f26194032/index.m3u8?token=ec6ad053ff958dd7af23cb4301f97ceb353770a9d156e2391378f4874e8416d1fac7e5a54bb4e72f71e118c1cc5c7f263765c6e4821f8090b98674d6a956230da5edcf2a382c-4f7f377c42e3586b8d03e3e15459304b
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tamil-HD.png" group-title="Tamil",Zee Tamil HD
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2aca6b184b63be739721/index.m3u8?token=d0ca97658879d59134dff872cd77200cdb82bea0fa2e99293d8a5d38f5db6f40cb76c1c466ce4b723ccfe2ffd2da9c746956deadc52bc41407b868bd756e765a8cc70c8f6fdf-49b27ede50f0c5bfdb8b88c6e2f4fe47
