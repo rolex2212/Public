@@ -10,7 +10,7 @@ http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a07f902a174d3f600e
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a07d96380655296b0cf20eb0bfac7b4d/index.m3u8?token=c02e6051aaa724554d0822f2ef8ce8c7b8bd6ad46148789c08f41a2fe3fd94231a623a62f9a6b5bf8d82a5b4fab17325f9d74b36025c53e0f27e42fbfd9c486f3e604d78efc1-1c51a6739cee5b9e8714224a062d8a53
 
 #EXTINF:-1 tvg-id="ColorsTamil.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Colors-Tamil-HD.png" group-title="Tamil",Colors Tamil HD
-http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ad361115b65ac618a2c1f482c/index.m3u8?token=0b34856f1a016dc276b814b3e34753808e115cf9dfccfd9b3748d14e8a9525694fc93908b33273b689bf62a1cd1b9c9291b35aa9e5ac01d875e9d00cd0cac35ecc24c14c8d3e-632126175e87efef2153faab95733dce
+http://:9326/86e4228d28529b58bdb5b93b2ad361115b65ac618a2c1f482c/index.m3u8?token=0b34856f1a016dc276b814b3e34753808e115cf9dfccfd9b3748d14e8a9525694fc93908b33273b689bf62a1cd1b9c9291b35aa9e5ac01d875e9d00cd0cac35ecc24c14c8d3e-632126175e87efef2153faab95733dce
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/D-Tamil.png" group-title="Tamil",Discovery World Tamil
 http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc46f105d7ba07a973e114e36710afd0eb3acae7e45ceed2f/index.m3u8?token=2d6b86153a1f1c50b4baecc1d22a427275e646403ebeab0a498bff5753cb9a126b67a3cb63aa4926aa73b02feb7c55d5e2c4295c8b45d72d298a5423a84698f06485f9c0785b-f3b0bd4dd2587d0fc05012c0f92031e7
@@ -52,7 +52,7 @@ http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac3670f5d67af7192240d55366b0c
 https://public.kliv.fuTV12J/play.php?id=875
 
 #EXTINF:-1 tvg-id="KTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/KTV-HD.png" group-title="Tamil",KTV HD
-http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2adb7a0b4b63be739721/index.m3u8?token=f7a61359fcf6e4750868c1ad7d45a3fdaac2d8bd0e43b2a1a4a286953966cbe9ec5455dd5f50a0a4d6b61217cc335593af1dc038d4ee1507376e5f981fad479dea207afe4060-3b491e848a357d9bf9dc12a3b18269ab
+http://78.40.140./86e4228d28529b58bdb5b93b2adb7a0b4b63be739721/index.m3u8?token=f7a61359fcf6e4750868c1ad7d45a3fdaac2d8bd0e43b2a1a4a286953966cbe9ec5455dd5f50a0a4d6b61217cc335593af1dc038d4ee1507376e5f981fad479dea207afe4060-3b491e848a357d9bf9dc12a3b18269ab
 
 #EXTINF:-1 tvg-id="MadhaTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Madha-TV.png" group-title="Tamil",Madha TV
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2add6f195c76a06a883206402d7d14/index.m3u8?token=9ba452a4da57903986667b3dd9bbb2dad0d23f2cce04ebe449ac9d24e080c8912bbcd3f9fc51e7c8a236fef76207fcf9ccda7f3381ff6da77a663da11910d2cfa7a532af216a-8aa7c6c3dcf9ab251de96a5e97e847d3
@@ -120,7 +120,7 @@ http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a0689b231649216607
 http://hingl.packetcdn.me:9250/86e4228d28529b58bdb5b93b2ac46f105d7ba068972713583f670df414b6/index.m3u8?token=7494ec8c05c1c35641d992eed1ad6379c1bfc683c934dec277362de636569bb20246a7629678e6097b57a5fa65d8c7b4c32869d52157a8823759caa310abc8b423a05b623ba4-95f476adbc778f3b8e9a448e27d77096
 
 #EXTINF:-1 tvg-id="1043" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png" group-title="Tamil",Vijay Takkar
-http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc66717556ea06a9f26194032/index.m3u8?token=309f2ff578acc67afbaf246f1b97ab811850a01f9bfe79d6b0e084f365e9dde453c2edd5fe89302f3a3c4ded0b68fe4ad551c4635cc48dbae1005fd74737814906088c3530b9-eca3d46ef5759f6d8c0e187cdad7bd28
+http://tm-tl-mdn.me:8372/8be1228d28529851b6b5b53c2bc66717556ea06a9f26194032/index.m3u8?token=309f2ff578acc67afbaf246f1b97ab811850a01f9bfe79d6b0e084f365e9dde453c2edd5fe89302f3a3c4ded0b68fe4ad551c4635cc48dbae1005fd74737814906088c3530b9-eca3d46ef5759f6d8c0e187cdad7bd28
 
 #EXTINF:-1 tvg-id="0-9-zeetamil" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Tamil-HD.png" group-title="Tamil",Zee Tamil HD
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2aca6b184b63be739721/index.m3u8?token=2d294a74ed6b2799f4a4377e067170b5ce7c7b68fd0dff0a99759901776ba6cfbdd68d4e8ad208d0a8ffb3bb8e8e19d5d4bb254283e5a0850c738870f4d9218afe42d4b03cd2-5e2d9a93fb4b71986a5b0fc33f954d44
