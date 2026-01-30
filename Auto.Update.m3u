@@ -58,7 +58,7 @@ http://tm-tl-ml.packetcdn.me:8372/8be1228d28529851b6b5b53c2bc26f174b73b679973913
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a06c9f270d4c356711fc0eb0bfac7b4d/index.m3u8?token=f1a1e301acd6198e73b87facc0b948a3e1fc69f450fa1f27b23ec560347acf8ac7a890fa26e3f5f25a01e249cd99372ece87244458dbaba6db8a4ef72f1fbf7c6a3a4353f232-1828a326f3d3971f130884d0d9fe0622
 
 #EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Tamil",Sooriyan TV
-http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac46f105d7ba06d91220048397516fb05b2/index.m3u8?token=0c888fba0172b49023e587e13ca8e26461d26579796bb3233eea7a6b29d4a7bcc05e5c487926d59353e7873a7f12fc9356a14862509fbb68cf6e7455ac10135c893e971fc13d-f6e599ea757fb70cd4e124a7230c3373
+
 
 #EXTINF:-1 tvg-id="SunTV.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sun-TV-HD.png" group-title="Tamil",Sun TV HD
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac37b134b63a9618a2c1f482c/index.m3u8?token=ce1009bdab2eb9a3f6a59345b3941e938e2e2a731438ac7b273fe561abaf15aea572ae51b548e61d38bc4fb1394af52bbd3ac5ffa35650cb88af31a9c5053bd59055f840e5c5-53a971d73307604d330d4686f2f96274
@@ -77,6 +77,9 @@ http://glspr.packetcdn.me:9110/86e4228d28529b58bdb5b93b2ad37c14577cba6a813e06403
 
 #EXTINF:-1 tvg-id="TVI.in@SD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TVi.png" group-title="Tamil",TVI HD
 http://78.40.140.206:9326/86e4228d28529b58bdb5b93b2ac27a025d79a06a88240d49246b0ce51cadb2/index.m3u8?token=459c38b5c2d45ad196e6439bdaef11e12535dbdee55215fd22dfabecc24d4120bb605415b8cc095f2fb474ecdc94ff7cab9fd996ece810306824b89b6e005eac7ab84ecf4df1-bba6ded0ba2d67fb0c744897dab60383
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240623_0136127789591698750676474.png" group-title="Overseas",TET HD
+https://origin-cae-mber.com/4c3caf7294b3/fbbd0aee3d9a8260/pla
 
 #EXTINF:-1 tvg-id="Tunes6.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil",Tunes 6
 
